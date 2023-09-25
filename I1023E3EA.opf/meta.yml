@@ -1,0 +1,47 @@
+id: I1023E3EA
+ocr_import_info:
+  timestamp: '2023-09-25T14:18:28.745603+00:00'
+  batch_id: batch-ecd6
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharma Kyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-09-25 14:23:47.301464+00:00
+last_modified: 2023-09-25 14:23:47.301472+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W23794
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW23794
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: བཤེས་པའི་འཕྲིན་ཡིག་གི་ཊཱི་ཀ
+  languages:
+  - bo
+  author: ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན།
+statistics:
+  ocr_word_mean_confidence_index: 0.9701783483905834
+  ocr_word_median_confidence_index: 0.99955122
+bases:
+  I2772:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I2772
+      total_pages: 266
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I2772.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99955122
+      ocr_word_mean_confidence_index: 0.9701783483905834
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
